@@ -68,6 +68,6 @@
 
 ## Acknowledgements
 
-1. @simonw - I used the html structure/code from his README.md to set up the table above.
+1. [@simonw](https://github.com/simonw) - I used the html structure/code from his README.md to set up the table above.
 2. Thomas De Moor, *HOW TO STAND OUT WITH YOUR GITHUB PROFILE*, July 20, 2020, https://x-team.com/blog/stand-out-with-a-github-profile/. This post provides some good ideas for setting up your own GitHub profile.
 3. Monica Powell, *How To Create A GitHub Profile README*, July 11, 2020, https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme. This is post provides the steps on how to set up your profile README file and also some good examples.
