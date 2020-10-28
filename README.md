@@ -26,7 +26,7 @@
 
 <br>
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="34%">
 
 ### Completed Projects
 <!-- completed_projects starts-->
@@ -40,7 +40,7 @@
 
 [Flexdashboard_test](https://github.com/gconway012/Flexdashboard_test)
 <!-- completed_projects ends -->
-</td><td valign="top" width="33%">
+</td><td valign="top" width="34%">
 
 ### Information Repos
 <!-- information_repos starts-->
@@ -48,7 +48,7 @@
 
 [MySQL_On_Mac](https://github.com/gconway012/MySQL_On_Mac)
 <!-- information_repos ends-->
-</td><td valign="top" width="33%">
+</td><td valign="top" width="34%">
 
 ### Ideas for future projects
 <!-- future_projects starts -->
