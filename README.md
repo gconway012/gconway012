@@ -1,8 +1,6 @@
 
 # Welcome to my corner of GitHub!
 
-<br>
-
 ## About Me
 
 * I'm a veteran who transitioned out of the military and is now trying to enter the world of Data Analytics and Data Science.  
@@ -14,17 +12,14 @@
     + share things I've learned that were helpful
     + (eventually) collect/aggregate books, articles, blogposts, etc from others' repos for reference
 
-<br>
-
 ***
 
 ## What's happening in my GitHub
 
-<br>
 
 ***Current Project:*** [Hair_Salon_No-Show](https://github.com/gconway012/Hair_Salon_No-Show)
 
-<br>
+
 
 <table><tr><td valign="top" width="34%">
 
@@ -61,8 +56,6 @@
 * Analytics project in Python
 <!-- future_projects ends -->
 </td></tr><table>
-
-<br>
 
 ***
 
